@@ -1,4 +1,4 @@
-# -data-structure-project-longest-repeating-string-in-a-DNA-strand
+# -Longest-String-in-DNA-sequence
 
 While generating data from a processed DNA which has thousands of random combination of the A, T, G, C nucleotides, it become hard to know which part of the DNA has the maximum repetion. 
 If you open DNA.txt you can see the overwhelming combinations.
